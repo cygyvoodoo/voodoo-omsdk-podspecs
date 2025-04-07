@@ -1,1 +1,1 @@
-“# voodoo-omsdk-specs”
+# voodoo-omsdk-podspecs
